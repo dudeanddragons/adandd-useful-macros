@@ -1,0 +1,33 @@
+{
+  "id": "adandd-useful-macros",
+  "title": "AD&D Useful Macros",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "adandd-useful-macros",
+      "label": "AD&D Useful Macros",
+      "path": "packs/adandd-useful-macros",
+      "type": "Macro",
+      "system": "ars",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "adandd-useful-rollable-tables",
+      "label": "AD&D Useful Rollable Tables",
+      "path": "packs/adandd-useful-rollable-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ars"
+    }
+  ]
+}
