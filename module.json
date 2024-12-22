@@ -1,13 +1,13 @@
 {
   "id": "adandd-useful-macros",
   "title": "AD&D Useful Macros",
-  "version": "12.241221.01",
+  "version": "12.241221.02",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
   "manifest": "https://raw.githubusercontent.com/dudeanddragons/adandd-useful-macros/refs/heads/master/module.json",
-  "download": "https://github.com/dudeanddragons/adandd-useful-macros/archive/refs/tags/12.241221.01.zip",
+  "download": "https://github.com/dudeanddragons/adandd-useful-macros/archive/refs/tags/12.241221.02.zip",
   "packs": [
     {
       "name": "adandd-useful-macros",
